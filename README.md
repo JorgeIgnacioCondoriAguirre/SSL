@@ -1,8 +1,8 @@
 # Sintaxis y Semántica de los Lenguajes
 
-Curso: K2052
+Curso: K2006
 
-Año: 2024
+Año: 2025
 
 Legajo: 207.956-2
 
