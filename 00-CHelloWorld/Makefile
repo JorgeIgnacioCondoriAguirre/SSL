@@ -1,7 +1,12 @@
-programa: archivo.c
-	gcc archivo.c -o c18 programa
+programa: Hello.c
+	gcc Hello.c -o programa
 
 output.txt: programa
 	./programa > output.txt
 
-all: output.txt
+clean:
+	rm -f programa
+
+
+all: output.txt clean
+
